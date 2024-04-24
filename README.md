@@ -5,7 +5,7 @@ This repository was created for Dr. Gotzler's English 105 class during the Sprin
 It contains the publicly available AQUASTAT dataset from the Food and Agriculture Organization of the United Nations. The AQUASTAT data repository is a collection of data about various indicators of human development, environmental health, and water management by country since 1960. It primarily focuses on the agricultural and economic capacities of African, South Asian, Asian, Latin American, and Caribbean nations. 
 ## Where is this data from?
 This  repository contains data from [AQUASTAT](https://data.apps.fao.org/aquastat/?lang=en), the publicly available dataset gathered by the [Food and Agriculture Organization of the United Nations](https://www.fao.org/aquastat/en/). 
-The data subset was compiled using Google Colab through Python. 
+The data subset was compiled using Google Colab through Python. This process can be viewed in the compiling-subsets file.
 
 
 ## Contents
@@ -20,6 +20,14 @@ The Notebook also subdivides the data into a subset of data containing countries
 ## Purpose
 The Food and Agriculture Association of the United Nations collects AQUASTAT data to further its goal of promoting agricultural and rural development through sustainable water and land use. This data regarding agricultural development is primarily focused on developing nations, which can be aided in adopting sustainable practices that promote long-term health and productivity. Data regarding these agricultural and economic fields is therefore integral in research regarding ways to increase sustainability, increase agricultural output and food production, and promote public health and well-being. This repository is a reliable, accurate, and large-scale source of information that potential policy-makers, environmental researchers, land developers, and more can use to inform their decisions regarding the health of their country.
 
+## Resources for Getting Started
+* Access the [AQUASTAT](https://data.apps.fao.org/aquastat/?lang=en) and download the data as a .csv file
+* Create an account with [Google Colab](https://colab.google/notebooks/) to follow the methods of data compilation listed in [compiling-datasets]()
+* The free website [DataWrapper](https://www.datawrapper.de/) was used to create data visualizations
+
 ## Visualizations
 This map shows the AQUASTAT subset, countries_by_wealth. The gradient illustrates the distribution of GDP per Capita among countries of the world, allowing us to easily see where wealth is currently concentrated. 
 ![0Xmrq-gdp-per-capita](https://github.com/margaretmead/AQUASTAT-DATA/assets/156699907/c3a48ef0-7fd5-4f59-88e7-4e4407718ee5)
+
+## What do I do Next?
+After you finish reading this README page, you can navigate to the "compiling-subsets" file. This contains a link to the original AQUASTAT dataset .csv file and a step-by-step guide to mount it to your Google Drive and import it into Google Colab so that you can start refining it for your research needs! You can also view the already existing data frames created from the AQUASTAT data in the ())))) file. 
