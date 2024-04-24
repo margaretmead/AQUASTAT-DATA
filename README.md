@@ -29,5 +29,10 @@ The Food and Agriculture Association of the United Nations collects AQUASTAT dat
 This map shows the AQUASTAT subset, countries_by_wealth. The gradient illustrates the distribution of GDP per Capita among countries of the world, allowing us to easily see where wealth is currently concentrated. 
 ![0Xmrq-gdp-per-capita](https://github.com/margaretmead/AQUASTAT-DATA/assets/156699907/c3a48ef0-7fd5-4f59-88e7-4e4407718ee5)
 
+
+This bar graph shows a potential use of the countries_by_access subset. It graphs the percentage of each country's rural population that has access to safe drinking water, illustrating areas in which many people lack access to safe water.
+[5k7ZD-countries-by-rural-population-with-access-to-safe-drinking-water-.pdf](https://github.com/margaretmead/AQUASTAT-DATA/files/15088391/5k7ZD-countries-by-rural-population-with-access-to-safe-drinking-water-.pdf)
+
+
 ## What do I do Next?
 After you finish reading this README page, you can navigate to the "compiling-subsets" file. This contains a link to the original AQUASTAT dataset .csv file and a step-by-step guide to mount it to your Google Drive and import it into Google Colab so that you can start refining it for your research needs! You can also view the already existing data frames created from the AQUASTAT data in the ())))) file. 
