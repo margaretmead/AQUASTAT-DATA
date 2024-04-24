@@ -31,7 +31,8 @@ This map shows the AQUASTAT subset, countries_by_wealth. The gradient illustrate
 
 
 This bar graph shows a potential use of the countries_by_access subset. It graphs the percentage of each country's rural population that has access to safe drinking water, illustrating areas in which many people lack access to safe water.
-[5k7ZD-countries-by-rural-population-with-access-to-safe-drinking-water-.pdf](https://github.com/margaretmead/AQUASTAT-DATA/files/15088391/5k7ZD-countries-by-rural-population-with-access-to-safe-drinking-water-.pdf)
+![5k7ZD-countries-by-rural-population-with-access-to-safe-drinking-water-](https://github.com/margaretmead/AQUASTAT-DATA/assets/156699907/4d547169-e521-4bd7-81e8-eff8e4285a96)
+
 
 
 ## What do I do Next?
