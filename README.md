@@ -1,26 +1,28 @@
 # Food and Agriculture Association of the United Nations's Global Information System on Water and Agriculture (AQUASTAT)
 ## About
-This repository was created for Dr. Gotzler's English 105 class during the Spring 2024 semester at the University of North Carolina at Chapel Hill. 
+### This repository houses the publicly available AQUASTAT dataset from the Food and Agriculture Organization of the United Nations. The AQUASTAT data repository is a collection of various indicators of human development, environmental health, and water management since 1960. It primarily focuses on data from African, South Asian, Asian, Latin American, and Caribbean nations. 
+*This repository was created for Dr. Gotzler's English 105 class during the Spring 2024 semester at the University of North Carolina at Chapel Hill.* 
 
-It contains the publicly available AQUASTAT dataset from the Food and Agriculture Organization of the United Nations. The AQUASTAT data repository is a collection of data about various indicators of human development, environmental health, and water management by country since 1960. It primarily focuses on the agricultural and economic capacities of African, South Asian, Asian, Latin American, and Caribbean nations. 
+## Contents
+Within this repository is:
+* a [**datasets folder**](https://github.com/margaretmead/AQUASTAT-DATA/tree/main/datasets) that contains the raw AQUASTAT data, as well as two subsets of data from 2020 concerning GDP per capita and access to safe drinking water. These subsets were compiled using Python3.
+* a [**data visualizations folder**](https://github.com/margaretmead/AQUASTAT-DATA/tree/main/data%20visualizations) that contains visualizations made with the subsets compiled in the **datasets** folder
+* a [**Process Notebook**](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/Process%20Notebook.ipynb) that contains the methods used to compile these subsets from the raw data.
+
 ## Where is this data from?
 This  repository contains data from [AQUASTAT](https://data.apps.fao.org/aquastat/?lang=en), the publicly available dataset gathered by the [Food and Agriculture Organization of the United Nations](https://www.fao.org/aquastat/en/). 
 The data subset was compiled using Google Colab through Python. This process can be viewed in the [compiling-subsets](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/compiling-subsets) file.
 
-
-## Contents
-This repository includes a Google Colab Notebook written in Python that contains a possible use case for the AQUASTAT data. The dataset was refined to include countries by GDP per Capita and by the percentage of each country's rural population that has access to safe drinking water. This information is contained in the following datasets:
-* countries_by_wealth
-* countries_by_access
-
-The Notebook also subdivides the data into a subset of data containing countries in which less than 50% of the rural population has access to safe drinking water and whose GDP per capita is less than America's, based on data collected in the year 2020. This data is included in the datasets:
-* less_than_us_gdppercapita
-* half_safe_water_access
-
-  Each of these datasets can be viewed and downloaded in the [datasets](https://github.com/margaretmead/AQUASTAT-DATA/tree/main/datasets) file. 
-
 ## Purpose
-The Food and Agriculture Association of the United Nations collects AQUASTAT data to further its goal of promoting agricultural and rural development through sustainable water and land use. This data regarding agricultural development is primarily focused on developing nations, which can be aided in adopting sustainable practices that promote long-term health and productivity. Data regarding these agricultural and economic fields is therefore integral in research regarding ways to increase sustainability, increase agricultural output and food production, and promote public health and well-being. This repository is a reliable, accurate, and large-scale source of information that potential policy-makers, environmental researchers, land developers, and more can use to inform their decisions regarding the health of their country.
+The purpose of this repository is to serve as a public resource from which accurate and reproducible data regarding the agricultural development of countries can be used to inform potential policy-makers, environmental researchers, land developers, and more to inform their public health and policy decisions. 
+
+The subsets contained in the [Process Notebook](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/Process%20Notebook.ipynb) can be used to analyze the relationship between a country's GDP per Capita and the average percentage of its population that has access to drinking water. Data regarding these agricultural and economic indicators is integral in research regarding ways to increase sustainability, increase agricultural output, and promote long-term public health. 
+
+## Potential Uses of this Data
+* Identifying economic trends in various nations over time
+* Identifying trends in agricultural output over time
+* Identifying areas of increased and/or unsustainable water usage
+* Analyzing how these areas intersect and bringing awareness to the public and policy-makers to create and promote sustainability while maximizing a country's economic capacity
 
 ## Resources for Getting Started
 * Access the [AQUASTAT](https://data.apps.fao.org/aquastat/?lang=en) and download the data as a .csv file
