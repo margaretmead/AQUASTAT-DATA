@@ -1,6 +1,6 @@
 # Food and Agriculture Association of the United Nations's Global Information System on Water and Agriculture (AQUASTAT)
 ## About
-### This repository houses the publicly available AQUASTAT dataset from the Food and Agriculture Organization of the United Nations. The AQUASTAT data repository is a collection of various indicators of human development, environmental health, and water management since 1960. It primarily focuses on data from African, South Asian, Asian, Latin American, and Caribbean nations. 
+### This repository houses the publicly available AQUASTAT dataset, a collection of various indicators of human development, environmental health, and water management since 1960. It primarily focuses on data from African, South Asian, Asian, Latin American, and Caribbean nations. 
 *This repository was created for Dr. Gotzler's English 105 class during the Spring 2024 semester at the University of North Carolina at Chapel Hill.* 
 
 ## Contents
