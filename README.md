@@ -11,7 +11,7 @@ Within this repository is:
 
 ## Where is this data from?
 This  repository contains data from [AQUASTAT](https://data.apps.fao.org/aquastat/?lang=en), the publicly available dataset gathered by the [Food and Agriculture Organization of the United Nations](https://www.fao.org/aquastat/en/). 
-The data subset was compiled using Google Colab through Python. This process can be viewed in the [compiling-subsets](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/compiling-subsets) file.
+The data subset was compiled utilizing Python3 in Google Colab. This process can be viewed in the [compiling-subsets](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/compiling-subsets) file.
 
 ## Purpose
 The purpose of this repository is to serve as a public resource from which accurate and reproducible data regarding the agricultural development of countries can be used to inform potential policy-makers, environmental researchers, land developers, and more to inform their public health and policy decisions. 
