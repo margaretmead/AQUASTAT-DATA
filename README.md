@@ -10,13 +10,12 @@ Within this repository is:
 * A [**process notebook**](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/Process%20Notebook.ipynb) that contains the methods used to compile these subsets from the raw data.
 
 ## Where is this data from?
-This  repository contains data from [AQUASTAT](https://data.apps.fao.org/aquastat/?lang=en), the publicly available dataset gathered by the [Food and Agriculture Organization of the United Nations](https://www.fao.org/aquastat/en/). 
-The data subset was compiled utilizing Python3 in Google Colab. This process can be viewed in the [compiling-subsets](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/compiling-subsets) file.
+This  repository contains the [AQUASTAT](https://data.apps.fao.org/aquastat/?lang=en) dataset, a publicly available dataset gathered by the [Food and Agriculture Organization of the United Nations](https://www.fao.org/aquastat/en/). 
 
 ## Purpose
-The purpose of this repository is to serve as a public resource from which accurate and reproducible data regarding the agricultural development of countries can be used to inform potential policy-makers, environmental researchers, land developers, and more to inform their public health and policy decisions. 
+The purpose of this repository is to serve as a public resource that potential policy-makers, researchers, and land developers can utilize to create accurate and reproducible datasets regarding the agricultural and economic development of countries.
 
-## Potential Uses of this Data
+## Potential Uses of this Data Include:
 * Identifying economic trends in various nations over time
 * Identifying trends in agricultural output over time
 * Identifying areas of increased and/or unsustainable water usage
@@ -28,11 +27,13 @@ The purpose of this repository is to serve as a public resource from which accur
 * Create an account with the free website [DataWrapper](https://www.datawrapper.de/) to create data visualizations
 
 ## Visualizations
-This map shows the AQUASTAT subset, countries_by_wealth. The gradient illustrates the distribution of GDP per Capita among countries of the world, allowing us to easily see where wealth is currently concentrated. This visualization was created with [DataWrapper](https://www.datawrapper.de/). 
+This map shows the AQUASTAT subset, countries_by_wealth. The gradient illustrates the distribution of GDP per Capita among countries of the world, allowing us to see where wealth is currently concentrated. This visualization was created with [DataWrapper](https://www.datawrapper.de/). 
 ![0Xmrq-gdp-per-capita](https://github.com/margaretmead/AQUASTAT-DATA/assets/156699907/c3a48ef0-7fd5-4f59-88e7-4e4407718ee5)
 
 This bar graph shows a potential use of the countries_by_access subset. It graphs the percentage of each country's rural population that has access to safe drinking water, illustrating areas in which many people lack access to safe water. This visualization was created with [DataWrapper](https://www.datawrapper.de/). 
 ![countries-by-rural-population-with-access-to-safe-drinking-water](https://github.com/margaretmead/AQUASTAT-DATA/assets/156699907/a23bac11-4287-40ae-a9fd-748ea9917711)
 
 ## What do I do Next?
-After you finish reading this README page, you can navigate to the [compiling-subsets](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/compiling-subsets) file. This contains a link to the original AQUASTAT dataset .csv file and a step-by-step guide to mount it to your Google Drive and import it into Google Colab so that you can start refining it for your research needs! You can also view the already existing data frames created from the AQUASTAT data in the [datasets](https://github.com/margaretmead/AQUASTAT-DATA/tree/main/datasets) file. 
+After reading this README page, you can navigate to the [**process notebook**](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/Process%20Notebook.ipynb) file. This contains a link to a step-by-step guide to reproducing the methods used to create the subsets used in the previous data visualizations!
+
+You can also use those methods to mount the AQUASTAT data to your Google Drive and import it into Google Colab so that you can start refining it for your own research!
