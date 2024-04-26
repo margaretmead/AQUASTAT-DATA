@@ -16,8 +16,6 @@ The data subset was compiled using Google Colab through Python. This process can
 ## Purpose
 The purpose of this repository is to serve as a public resource from which accurate and reproducible data regarding the agricultural development of countries can be used to inform potential policy-makers, environmental researchers, land developers, and more to inform their public health and policy decisions. 
 
-The subsets contained in the [Process Notebook](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/Process%20Notebook.ipynb) can be used to analyze the relationship between a country's GDP per Capita and the average percentage of its population that has access to drinking water. Data regarding these agricultural and economic indicators is integral in research regarding ways to increase sustainability, increase agricultural output, and promote long-term public health. 
-
 ## Potential Uses of this Data
 * Identifying economic trends in various nations over time
 * Identifying trends in agricultural output over time
