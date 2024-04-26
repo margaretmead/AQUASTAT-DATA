@@ -33,11 +33,8 @@ The subsets contained in the [Process Notebook](https://github.com/margaretmead/
 This map shows the AQUASTAT subset, countries_by_wealth. The gradient illustrates the distribution of GDP per Capita among countries of the world, allowing us to easily see where wealth is currently concentrated. This visualization was created with [DataWrapper](https://www.datawrapper.de/). 
 ![0Xmrq-gdp-per-capita](https://github.com/margaretmead/AQUASTAT-DATA/assets/156699907/c3a48ef0-7fd5-4f59-88e7-4e4407718ee5)
 
-
 This bar graph shows a potential use of the countries_by_access subset. It graphs the percentage of each country's rural population that has access to safe drinking water, illustrating areas in which many people lack access to safe water. This visualization was created with [DataWrapper](https://www.datawrapper.de/). 
-![5k7ZD-countries-by-rural-population-with-access-to-safe-drinking-water-](https://github.com/margaretmead/AQUASTAT-DATA/assets/156699907/4d547169-e521-4bd7-81e8-eff8e4285a96)
-
-
+![countries-by-rural-population-with-access-to-safe-drinking-water](https://github.com/margaretmead/AQUASTAT-DATA/assets/156699907/a23bac11-4287-40ae-a9fd-748ea9917711)
 
 ## What do I do Next?
 After you finish reading this README page, you can navigate to the [compiling-subsets](https://github.com/margaretmead/AQUASTAT-DATA/blob/main/compiling-subsets) file. This contains a link to the original AQUASTAT dataset .csv file and a step-by-step guide to mount it to your Google Drive and import it into Google Colab so that you can start refining it for your research needs! You can also view the already existing data frames created from the AQUASTAT data in the [datasets](https://github.com/margaretmead/AQUASTAT-DATA/tree/main/datasets) file. 
